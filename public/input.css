@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.array-rods-all {
+  position: absolute;
+  /* bottom: 0px; */
+  transition: 0.5s all ease;
+  /* margin-left: 16px; */
+}
+
+.array-rods-all1 {
+  /* position: absolute; */
+  /* bottom: 0px; */
+  transition: 0.5s all ease;
+  /* margin-left: 16px; */
+}
+
+.centervdsdsd {
+  margin: auto;
+  width: 100%;
+}
+
+.stripes {
+  background: repeating-linear-gradient(
+    45deg,
+    transparent 0 8px,
+    #1e293b 0px 10px
+  );
+}
+
+.transform-class {
+  transform: translateY(-200px);
+}
+
+.mb-32 {
+  margin-bottom: 8rem;
+}
+
+.w-48 {
+  width: 12rem;
+}
