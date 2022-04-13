@@ -14,7 +14,9 @@ const colorsList = [
   "bg-slate-300",
 ];
 
-var n = 3;
+const margin = ["mb-8", "mb-16", "mb-24", "mb-32", "w-48", "w-40", "w-32"];
+
+var n = 5;
 
 generateDiscs(colorsList, n);
 
