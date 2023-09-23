@@ -1,6 +1,6 @@
 # Algorithm Visualizer
 
-[![Live Demo]][[Link](https://alogrithms.bhitkar.dev/)]
+Live Demo:  https://alogrithms.bhitkar.dev/
 
 Algorithm Visualizer is an interactive web-based platform that allows users to visualize and comprehend complex algorithms and data structures. It provides a user-friendly interface for experimenting with algorithms like bubble sort, selection sort, and insertion sort, allowing real-time execution observation and enhancing the understanding of computational concepts.
 
@@ -29,5 +29,4 @@ Algorithm Visualizer is an interactive web-based platform that allows users to v
 `open index.html`
 
 Note : Use Liveserver or any server or it will give CORS error.
-
 
