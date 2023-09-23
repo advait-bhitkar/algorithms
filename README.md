@@ -15,3 +15,17 @@ Algorithm Visualizer is an interactive web-based platform that allows users to v
 **Random Data Input:** Randomize data to see how the algorithms work on different datasets.\
 **Tech Stack:** Built with HTML, CSS, JavaScript, and powered by anime.js for smooth animations.
 
+# How to Use
+
+1. Clone this repository to your local machine:
+
+`https://github.com/advait-bhitkar/algorithms.git`
+
+2. Open the index.html file in your web browser:
+
+`cd algorithm-visualizer/public`
+`open index.html`
+
+Note : Use Liveserver or any server or it will give CORS error.
+
+
